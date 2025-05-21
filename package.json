@@ -1,7 +1,7 @@
 {
   "name": "id-card-app",
   "version": "0.1.0",
-  "homepage": "https://harikak234.github.io/IDCardGenerator",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
