@@ -40,7 +40,13 @@ export default function IDCardForm({ setCardData }) {
         <input name="name" type="text" placeholder="Name" className="form-control mb-2" onChange={handleChange} required />
         <input name="idNumber" type="text" placeholder="ID Number" className="form-control mb-2" onChange={handleChange} required />
         <input name="dob" type="date" className="form-control mb-2" onChange={handleChange} required />
-        <input name="gender" type="text" placeholder="Gender" className="form-control mb-2" onChange={handleChange} required />
+        <select name="gender" className="form-control mb-2" onChange={handleChange} required>
+          <option value="">Select Gender</option>
+          <option value="Male">Male</option>
+          <option value="Female">Female</option>
+          <option value="Prefer not to say">Prefer not to say</option>
+        </select>
+
         <input name="fatherName" type="text" placeholder="Father’s Name" className="form-control mb-2" onChange={handleChange} required />
         <input name="bloodGroup" type="text" placeholder="Blood Group" className="form-control mb-2" onChange={handleChange} required />
         <input name="institute" type="text" placeholder="Institute" className="form-control mb-2" onChange={handleChange} required />
