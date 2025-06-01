@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/IDCardGenerator/static/css/main.337e49c8.css",
-    "main.js": "/IDCardGenerator/static/js/main.5b897d4f.js",
+    "main.js": "/IDCardGenerator/static/js/main.00b5a035.js",
     "static/js/977.b460108b.chunk.js": "/IDCardGenerator/static/js/977.b460108b.chunk.js",
     "static/js/732.39fe46b4.chunk.js": "/IDCardGenerator/static/js/732.39fe46b4.chunk.js",
     "index.html": "/IDCardGenerator/index.html",
     "main.337e49c8.css.map": "/IDCardGenerator/static/css/main.337e49c8.css.map",
-    "main.5b897d4f.js.map": "/IDCardGenerator/static/js/main.5b897d4f.js.map",
+    "main.00b5a035.js.map": "/IDCardGenerator/static/js/main.00b5a035.js.map",
     "732.39fe46b4.chunk.js.map": "/IDCardGenerator/static/js/732.39fe46b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.337e49c8.css",
-    "static/js/main.5b897d4f.js"
+    "static/js/main.00b5a035.js"
   ]
 }
